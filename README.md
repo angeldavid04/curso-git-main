@@ -1,10 +1,10 @@
 # Repositorio nuevo con rama main
 
-## ¿Por qué cambiar a la rama main?
+## 🤔 ¿Por qué cambiar a la rama main?
 
 Hacer el cambio es usar un lenguaje más inclusivo y seguir los estándares modernos de plataformas como GitHub.
 
-## Cómo cambiar y configurar main
+## 🌿 Cómo cambiar y configurar main
 
 - Cambiar nombre local: Usa `git branch -m main` para renombrar tu rama actual
 - Actualizar repositorio: Sube los cambios con `git push -u origin main`
