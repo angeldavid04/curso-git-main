@@ -34,3 +34,5 @@ git push -u origin main
 ---
 
 Este repositorio es una práctica en forma de apunte del [curso de Git y Github](https://jonmircha.com/git) de JonMircha. Las secciones de código fueron extraidas del árticulo del curso.
+
+[Repositorio principal de los apuntes del curso](https://github.com/angeldavid04/curso-git-main)
