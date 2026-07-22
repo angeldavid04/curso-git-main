@@ -6,9 +6,9 @@ Hacer el cambio es usar un lenguaje más inclusivo y seguir los estándares mode
 
 ## 🌿 Cómo cambiar y configurar main
 
-- Cambiar nombre local: Usa `git branch -m main` para renombrar tu rama actual
-- Actualizar repositorio: Sube los cambios con `git push -u origin main`
-- Predeterminado global: Configura Git para usarlo siempre con `git config --global init.defaultBranch main`
+- **Cambiar nombre local**: Usa `git branch -m main` para renombrar tu rama actual.
+- **Actualizar repositorio**: Sube los cambios con `git push -u origin main`.
+- **Predeterminado global**: Configura Git para usarlo siempre con `git config --global init.defaultBranch main`.
 
 El flujo básico se define de esta forma:
 
